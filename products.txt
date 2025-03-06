@@ -1,0 +1,20 @@
+101, Laptop, Electronics, 799.99, 15  
+102, Smartphone, Electronics, 599.99, 30  
+103, Headphones, Accessories, 99.99, 50  
+104, Chair, Furniture, 120.00, 20  
+105, Desk, Furniture, 250.00, 10  
+106, Coffee Maker, Appliances, 45.99, 25  
+107, Monitor, Electronics, 199.99, 12  
+108, Keyboard, Accessories, 49.99, 40  
+109, Mouse, Accessories, 29.99, 35  
+110, Microwave, Appliances, 89.99, 18  
+111, Tablet, Electronics, 329.99, 22  
+112, Printer, Electronics, 149.99, 14  
+113, Bluetooth Speaker, Accessories, 79.99, 28  
+114, Gaming Chair, Furniture, 199.99, 8  
+115, Bookshelf, Furniture, 89.99, 15  
+116, Blender, Appliances, 59.99, 20  
+117, Smartwatch, Electronics, 199.99, 25  
+118, Air Conditioner, Appliances, 299.99, 5  
+119, TV 55-inch, Electronics, 699.99, 7  
+120, External Hard Drive, Accessories, 129.99, 30  
